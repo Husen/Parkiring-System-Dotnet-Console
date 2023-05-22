@@ -1,0 +1,12 @@
+C:\Users\husen\source\repos\ParkiringSystem\ParkingSystem.Core\bin\Debug\net6.0\ParkingSystem.Core.deps.json
+C:\Users\husen\source\repos\ParkiringSystem\ParkingSystem.Core\bin\Debug\net6.0\ParkingSystem.Core.dll
+C:\Users\husen\source\repos\ParkiringSystem\ParkingSystem.Core\bin\Debug\net6.0\ParkingSystem.Core.pdb
+C:\Users\husen\source\repos\ParkiringSystem\ParkingSystem.Core\obj\Debug\net6.0\ParkingSystem.Core.csproj.AssemblyReference.cache
+C:\Users\husen\source\repos\ParkiringSystem\ParkingSystem.Core\obj\Debug\net6.0\ParkingSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husen\source\repos\ParkiringSystem\ParkingSystem.Core\obj\Debug\net6.0\ParkingSystem.Core.AssemblyInfoInputs.cache
+C:\Users\husen\source\repos\ParkiringSystem\ParkingSystem.Core\obj\Debug\net6.0\ParkingSystem.Core.AssemblyInfo.cs
+C:\Users\husen\source\repos\ParkiringSystem\ParkingSystem.Core\obj\Debug\net6.0\ParkingSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\husen\source\repos\ParkiringSystem\ParkingSystem.Core\obj\Debug\net6.0\ParkingSystem.Core.dll
+C:\Users\husen\source\repos\ParkiringSystem\ParkingSystem.Core\obj\Debug\net6.0\refint\ParkingSystem.Core.dll
+C:\Users\husen\source\repos\ParkiringSystem\ParkingSystem.Core\obj\Debug\net6.0\ParkingSystem.Core.pdb
+C:\Users\husen\source\repos\ParkiringSystem\ParkingSystem.Core\obj\Debug\net6.0\ref\ParkingSystem.Core.dll
